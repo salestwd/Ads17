@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1522516797 source:c:\lingc\projetoso\ask.c
+	"Header.c"
+
+1522516403 c:\lingc\projetoso\header.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1522516403 source:c:\lingc\projetoso\header.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1522516797 source:c:\lingc\projetoso\listar.c
+	"Header.c"
+
+1522516797 source:c:\lingc\projetoso\main.c
+	"Header.c"
+
+1522516797 source:c:\lingc\projetoso\menu.c
+	"Header.c"
+
